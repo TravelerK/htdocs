@@ -1,0 +1,1 @@
+<li class="enroll"><a href="http://localhost/html/main_pokemon?id">포켓몬 등록</a></li>

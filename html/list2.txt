@@ -1,0 +1,6 @@
+<li><a href="http://localhost/html/main_pokemon.php?id=catch1">물포켓몬</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=catch2">풀포켓몬</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=catch3">불포켓몬</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=catch4">전기포켓몬</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=catch5">바위포켓몬</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=catch6">노멀포켓몬</a></li>

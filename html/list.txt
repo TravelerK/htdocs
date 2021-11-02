@@ -1,0 +1,4 @@
+<li><a href="http://localhost/html/main_pokemon.php?id=1">이상해씨</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=2">꼬북이</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=3">파이리</a></li>
+<li><a href="http://localhost/html/main_pokemon.php?id=4">피카츄</a></li>

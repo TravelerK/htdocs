@@ -1,0 +1,38 @@
+
+header{
+  border-bottom: 1px solid gray;
+  padding:30px;
+}
+nav{
+  border-right: 1px solid gray;
+  float:left;
+  padding:30px;
+  width:260px;
+  height: 600px;
+}
+article{
+  float:left;
+  padding:100px;
+}
+img{
+  width:300px;
+  float:left;
+}
+#control{
+  float: right;
+  padding-left: 100px;
+}
+
+body.black{
+  background-color: black;
+  color: white;
+}
+body.white{
+  background-color: white;
+  color: black;
+}
+
+header img{
+  float:right;
+
+}
